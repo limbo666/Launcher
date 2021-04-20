@@ -172,6 +172,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\Launcher_blank.ini" />
     <None Include="Resources\startup.png" />
     <None Include="Resources\001-folder-4.png" />
     <None Include="Resources\Toulouba_mid %28160x240%29.png" />
